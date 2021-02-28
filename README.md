@@ -3,4 +3,4 @@
  2. start VMD
  3. Load the psf and dcd file
  4. source simulation_analysis.tcl
- 5. Analysing: Waters, SASA, ROG, RMSD, H-bonds, RMSF
+ 5. Results: Waters within 10Å, SASA, ROG, RMSD, H-bonds, RMSF.
